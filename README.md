@@ -14,12 +14,12 @@
 <br>
 <br>
 
-<p align="center">Desktop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile</p>
+<p align="center">Desktop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile</p>
 
 
 <div display="flex">
   
 <img src="https://github.com/Phelipefb/We-Coverage-Location/blob/main/assets/Desktop.png?raw=true"  width="600px" height="300px"  title="Desktop"/>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-<img src="https://github.com/Phelipefb/Easy-Shopping/blob/main/img/Mobile.png?raw=true" width="250px" height="300" title="Mobile"/>
+<img src="https://github.com/Phelipefb/We-Coverage-Location/blob/main/assets/Mobile.png?raw=true" width="250px" height="300" title="Mobile"/>
 </div>
